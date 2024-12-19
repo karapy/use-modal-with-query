@@ -12,6 +12,10 @@
   ],
   "author": "Kamuran Kara",
   "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/karapy/use-modal-with-query"
+  },
   "peerDependencies": {
     "react": "^18.0.0 || ^19.0.0",
     "next": "^14.0.0 || ^15.0.0 || ^15.1.1"
